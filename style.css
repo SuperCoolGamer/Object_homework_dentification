@@ -1,0 +1,25 @@
+body{
+    background-size:cover;
+}
+
+.btn{
+    background-color:white;
+    color:black;
+}
+
+.image{
+    border-color:black;
+    border:10px;
+    border-radius:100px;
+    box-shadow:5px 5px 10px black;
+    width:500;
+    height:400;
+}
+
+.back
+{
+    background-color:black;
+    color:white;
+    margin:10px;
+    padding:10px;
+}
